@@ -1,4 +1,4 @@
-package apitools
+package GoAPITools
 
 import (
 	"io/ioutil"
